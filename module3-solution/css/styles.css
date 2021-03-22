@@ -1,0 +1,20 @@
+body {
+    font-size: 16px;
+    color: #07485B;
+    background-color: #8EC7D2;
+}
+#header-nav {
+    background-color: #EDE5F4;
+}
+.navbar-nav .nav-item .nav-link {
+    color: #07485B;
+    font-size: 1.1em;
+}
+#chicken-content {
+    height: 1000px;
+    background-color: #07485B;
+    color: #8EC7D2;
+}
+#chicken-content p {
+    text-align: justify; /*text-justify was dropped in 5.0*/
+}
